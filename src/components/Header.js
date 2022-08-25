@@ -225,7 +225,7 @@ const DropDown = styled.div`
   padding: 10px;
   font-size: 14px;
   letter-spacing: 3px;
-  width: 120px;
+  width: 105px;
   opacity: 0;
 `;
 
